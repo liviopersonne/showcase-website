@@ -429,7 +429,7 @@ export const frDictionary = {
             },
             error: {
                 title: "Erreur lors de l'envoi",
-                message: 'Merci de nous envoyer un mail directement à',
+                message: 'Merci de nous envoyer un mail directement à info@telecom-etude.fr',
             },
         },
         legal: {
